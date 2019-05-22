@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "303857969639",
+    "firebase_url": "https://focusrealtors-ce990.firebaseio.com",
+    "project_id": "focusrealtors-ce990",
+    "storage_bucket": "focusrealtors-ce990.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303857969639:android:df667a1983c08b96",
+        "android_client_info": {
+          "package_name": "com.example.chetan578.focusrealtors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303857969639-6pkplta5rmj213a75saerhp9amn4luql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chetan578.focusrealtors",
+            "certificate_hash": "71011babad6a6ab7634d67199d2a3fe47674dec1"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiEJ54l6O_Ah87P35ydWDAzt10K4kNv0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303857969639-gsrh8fl5a7jf5tuor6d238o9q77c79br.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,4 +1,4 @@
-package com.example.chetan578.RestaurantViewer;
+package com.example.chetan578.focusrealtors;
 
 public class restaurant {
     private  String name;
